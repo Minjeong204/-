@@ -106,6 +106,7 @@ public class Main {
 				exit();
 			}
 		}
+		list();
 	}
 
 	public void read() {
