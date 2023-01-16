@@ -1,4 +1,6 @@
 # JAVA와 ORACLE을 이용한 게시판 프로그램
+
+##사용 기술 <img src="https://img.shields.io/badge/Java-11-pink"> <img src="https://img.shields.io/badge/Oracle-11.2.0.2.0-red">
 기능 : 기본적인 CRUD기능 구현
 - 게시판 조회
 - 게시글 추가
